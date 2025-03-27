@@ -76,7 +76,9 @@ MIT License - Free for educational and commercial use
 ## Contact:
 --------
 Sri Harsha M
+
 sriharsha0413@gmail.com
+
 Project URL: https://github.com/yourusername/customer-support-chatbot
 
 ## Version History:
