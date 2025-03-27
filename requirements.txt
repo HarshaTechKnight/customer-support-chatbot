@@ -1,0 +1,16 @@
+# Core Requirements
+transformers>=4.30.2
+torch>=2.0.1
+
+# GUI Dependencies
+tkinterweb>=1.2.3
+Pillow>=9.4.0  # For image support in GUI
+
+# Additional Utilities
+numpy>=1.24.2
+tqdm>=4.65.0  # For progress bars during model download
+huggingface-hub>=0.15.1
+
+# Development Dependencies (optional)
+black>=23.3.0  # Code formatter
+flake8>=6.0.0  # Linter
